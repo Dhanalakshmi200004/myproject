@@ -1,0 +1,36 @@
+body {
+    background-color: #f8f9fa;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  .card-title {
+    font-size: 1.25rem;
+    font-weight: 500;
+  }
+  
+  .card-text {
+    color: #6c757d;
+  }
+
+  .see-all-link {
+    color: #5a5df1; 
+    font-weight: 600;
+    font-size: 1.1rem;
+    text-decoration: none;
+  }
+  
+  .see-all-link:hover {
+    color: #4a4bd1; 
+  }
+  
+  .arrow {
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .see-all-link:hover .arrow {
+    transform: translateX(5px); 
+  }
+  

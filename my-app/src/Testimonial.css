@@ -1,0 +1,42 @@
+.testimonial-section {
+    background-color: #5a5df1; /* Background color matching your screenshot */
+    color: white;
+    height: 100vh; /* Make it full-screen height */
+    padding: 50px;
+    position: relative;
+  }
+  
+  .testimonial-content {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .text-uppercase {
+    letter-spacing: 1px;
+    font-weight: 600;
+    opacity: 0.8;
+  }
+  
+  .testimonial-quote {
+    font-size: 2rem;
+    font-weight: 500;
+    line-height: 1.5;
+    margin-bottom: 30px;
+  }
+  
+  .author-image {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+  }
+  
+  .author-name {
+    font-size: 1.3rem;
+    font-weight: bold;
+  }
+  
+  .author-position {
+    font-size: 1rem;
+    opacity: 0.8;
+  }
+  

@@ -1,0 +1,40 @@
+.services-section {
+    padding: 50px 0;
+  }
+  
+  .service-card {
+    padding: 20px;
+    border: none;
+    margin: 20px 0;
+    border-radius: 10px;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .service-card:hover {
+    transform: translateY(-10px);
+  }
+  
+  .testimonial-section-content {
+    padding: 40px 0;
+  }
+  
+  .testimonial-content {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .testimonial-content img {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .stars {
+    color: #fbc02d;
+    font-size: 24px;
+  }
+  
+  .blockquote {
+    font-size: 18px;
+    font-style: italic;
+  }
+  

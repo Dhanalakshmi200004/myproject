@@ -1,0 +1,48 @@
+.main-section {
+    padding: 30px;
+    background-color: white
+  }
+  
+  .logo {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .nav-link {
+    color: #000;
+    font-weight: bold;
+  }
+  
+  .main-content {
+    padding-top: 50px;
+  }
+  
+  .text-content h6 {
+    color: #FF6F61; 
+    font-weight: bold;
+  }
+  
+  .text-content h1 {
+    font-size: 48px;
+    font-weight: bold;
+  }
+  
+  .text-content p {
+    margin: 20px 0;
+    color: #666;
+  }
+  
+  .image-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  button.btn-primary {
+    background-color: #1F3BB3;
+    border-color: #1F3BB3;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
